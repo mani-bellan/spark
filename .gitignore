@@ -1,4 +1,7 @@
 .venv
+.DS_Store
 *.crc
 *.parquet
 *.csv
+/fhvhv/2021/01
+/zones
